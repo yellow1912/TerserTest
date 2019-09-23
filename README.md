@@ -8,6 +8,8 @@ yarn run webpack --config=webpack.config.js --verbose
 
 You should get:
 
+```
 ERROR in build.js from Terser
 Unexpected token punc «;», expected punc «,» [build.js:89,19]
 error Command failed with exit code 2.
+```
